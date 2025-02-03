@@ -1,4 +1,5 @@
-The notebook **"credit-card-fraud-data-clustering-and-pca.ipynb"** appears to be performing **credit card fraud analysis** using **clustering** and **Principal Component Analysis (PCA)**. Below is a step-by-step breakdown of what it is trying to achieve:
+The notebook will be performing **credit card fraud analysis** using **clustering** and **Principal Component Analysis (PCA)**. 
+Below is a step-by-step breakdown of what it is trying to achieve:
 
 
 ---
