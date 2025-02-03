@@ -1,4 +1,5 @@
-The notebook will be performing **credit card fraud analysis** using **clustering** and **Principal Component Analysis (PCA)**. 
+The notebook will be to be performing **credit card fraud analysis** using **clustering** and **Principal Component Analysis (PCA)**. 
+
 Below is a step-by-step breakdown of what it is trying to achieve:
 
 
@@ -18,7 +19,7 @@ Below is a step-by-step breakdown of what it is trying to achieve:
 
 
 ### **Step 2: Loading the Dataset**
-- It reads a dataset named **"CC GENERAL.csv"**, which likely contains credit card transaction data.
+- It reads a dataset named **"CC GENERAL.csv"**, which contains credit card transaction data.
 - The dataset shape is printed to understand the number of rows and columns.
 - The first few rows are displayed using `data.head()`, and summary statistics are generated using `data.describe()`.
 
